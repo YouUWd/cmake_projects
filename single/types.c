@@ -17,5 +17,6 @@ int main() {
   printf("double 存储大小 : %lu\n", sizeof(double));
   printf("long double 存储大小 : %lu\n", sizeof(long double));
 
+  printf("size NONE %d, CRC32 %d\n", sizeof("NONE"), sizeof("CRC32"));
   return 0;
 }

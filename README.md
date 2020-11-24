@@ -16,7 +16,7 @@ sample1
 └── src
     ├── CMakeLists.txt
     ├── hello.c
-    └── tsar.c
+    └── main.c
 ```
 
 ## 多目录工程
