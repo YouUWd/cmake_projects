@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "extern_declare.c"
+#include "include/extern_declare.c"
 
 int x = 1;
 int y = 2;

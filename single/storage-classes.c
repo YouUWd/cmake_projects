@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "support.c"
+#include "include/support.c"
 int mount;
 //auto int month; //auto 只能用在函数内，即 auto 只能修饰局部变量
 

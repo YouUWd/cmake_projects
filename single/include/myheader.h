@@ -1,0 +1,5 @@
+
+#ifndef SINGLE__MYHEADER_H_
+#define SINGLE__MYHEADER_H_
+#define LENGTH 1024
+#endif //SINGLE__MYHEADER_H_
