@@ -32,8 +32,16 @@ void sprint() {
 int main(void) {
   char str1[] = {'H', 'E', 'L', 'L', 'O', '\0'};
   char str2[] = "HELLO";
+  char str_1 = "HELLO";
+  char *str_2 = "HELLO";
+
+
   printf("str1: %s %d\n", str1, strlen(str1));
   printf("str2: %s %d\n", str2, strlen(str2));
+
+//  printf("str_1: %s %d\n", str_1, 1);
+  printf("str_2: %s %d\n", str_2, strlen(str_2));
+
 
   char str3[16];
   stpcpy(str3, str1);//复制
